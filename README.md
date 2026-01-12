@@ -112,6 +112,6 @@ Displays high-value customers with settlement percentage and revenue contributio
 
 
 **Screenshots** - ![Dashboard Preview](https://github.com/Hrishiyash/Shield-Insurance-Report-using-PowerBI/blob/main/Age_Group_Analysis.png)
-                  ![Dashboard Preview]()
+                  ![Dashboard Preview](https://github.com/Hrishiyash/Shield-Insurance-Report-using-PowerBI/blob/main/General_Analysis.png)
                   ![Dashboard Preview]()
 
