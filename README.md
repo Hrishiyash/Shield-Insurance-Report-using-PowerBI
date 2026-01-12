@@ -111,7 +111,7 @@ Displays high-value customers with settlement percentage and revenue contributio
   Enables leadership to reallocate budgets toward high-performing channels and cities.
 
 
-**Screenshots** - ![Dashboard Preview](https://github.com/Hrishiyash/Shield-Insurance-Report-using-PowerBI/blob/main/Age_Group_Analysis.png)
-                  ![Dashboard Preview](https://github.com/Hrishiyash/Shield-Insurance-Report-using-PowerBI/blob/main/General_Analysis.png)
-                  ![Dashboard Preview]()
+**Screenshots** - Age_Group_Analysis ![Dashboard Preview](https://github.com/Hrishiyash/Shield-Insurance-Report-using-PowerBI/blob/main/Age_Group_Analysis.png)
+                  General_Analysis ![Dashboard Preview](https://github.com/Hrishiyash/Shield-Insurance-Report-using-PowerBI/blob/main/General_Analysis.png)
+                  Sales_Analysis ![Dashboard Preview](https://github.com/Hrishiyash/Shield-Insurance-Report-using-PowerBI/blob/main/Sales_analysis.png)
 
